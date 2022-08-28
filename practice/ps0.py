@@ -1,3 +1,6 @@
+"""
+    입력받은 정수 x,y의 제곱과 log2 구하기
+"""
 import numpy
 
 x = int(input('Enter number x : '))
